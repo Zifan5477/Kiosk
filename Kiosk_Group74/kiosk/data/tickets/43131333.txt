@@ -1,0 +1,14 @@
+Ticket 1
+Ticket ID: 14411431
+Title: KONG: SKULL ISLAND
+Time: 15:30
+Screen: 1
+Ticket Type: Adult
+
+Ticket 2
+Ticket ID: 43131333
+Title: KONG: SKULL ISLAND
+Time: 15:30
+Screen: 1
+Ticket Type: Adult
+
